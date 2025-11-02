@@ -1,4 +1,7 @@
 # Exp5 Bubble Sort and Merge sort in CUDA
+# Name: Ashwin Akash M
+# Reference No: 212223230024
+# Date:02-11-2025
 **Objective:**
 Implement Bubble Sort and Merge Sort on the GPU using CUDA, analyze the efficiency of this sorting algorithm when parallelized, and explore the limitations of Bubble Sort and Merge Sort for large datasets.
 ## AIM:
